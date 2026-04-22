@@ -5,6 +5,9 @@ CRYPTON  — сейф для данных.
 Physical 2FA: Ключом может стать любой файл.  
 Duress Code: Пароль-смертник для уничтожения данных при принуждении.  
 Shredder: Удаление оригиналов без возврата.
+
+УСТАНОВКА НЕОБХОДИМЫХ БИБЛИОТЕК: pip install customtkinter pycryptodome
+
 <img width="745" height="850" alt="Снимок экрана_20260422_154238" src="https://github.com/user-attachments/assets/e5587bbb-25a1-47d5-b83a-b24511678cfb" />
 
 
